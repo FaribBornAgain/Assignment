@@ -1,6 +1,10 @@
 public class Calculator {
     public int add(int a, int b) {
-        return a + b + 10; // main branch change
+<<<<<<< HEAD
+        return a + b ; // main branch change
+=======
+        return a + b ;
+>>>>>>> feature/calculator
     }
 
     public int subtract(int a, int b) {
